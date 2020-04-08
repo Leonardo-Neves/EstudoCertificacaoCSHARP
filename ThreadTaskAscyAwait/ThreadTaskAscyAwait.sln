@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTaskAscyAwait", "ThreadTaskAscyAwait\ThreadTaskAscyAwait.csproj", "{B153FC99-808E-4F4E-92C3-875C27D5B1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B153FC99-808E-4F4E-92C3-875C27D5B1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B153FC99-808E-4F4E-92C3-875C27D5B1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B153FC99-808E-4F4E-92C3-875C27D5B1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B153FC99-808E-4F4E-92C3-875C27D5B1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30003112-041F-4756-8025-12723F9C53BD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.exe
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.deps.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.runtimeconfig.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.runtimeconfig.dev.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.dll
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\bin\Debug\netcoreapp3.0\IComparableTest.pdb
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\obj\Debug\netcoreapp3.0\IComparableTest.csprojAssemblyReference.cache
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\obj\Debug\netcoreapp3.0\IComparableTest.AssemblyInfoInputs.cache
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\obj\Debug\netcoreapp3.0\IComparableTest.AssemblyInfo.cs
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\obj\Debug\netcoreapp3.0\IComparableTest.dll
+C:\Users\Leonardo Silva Neves\Desktop\Console\IComparableTest\IComparableTest\obj\Debug\netcoreapp3.0\IComparableTest.pdb

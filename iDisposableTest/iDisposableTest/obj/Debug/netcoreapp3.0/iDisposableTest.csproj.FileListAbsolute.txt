@@ -1,0 +1,11 @@
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.exe
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.deps.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.runtimeconfig.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.runtimeconfig.dev.json
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.dll
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\bin\Debug\netcoreapp3.0\iDisposableTest.pdb
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\obj\Debug\netcoreapp3.0\iDisposableTest.csprojAssemblyReference.cache
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\obj\Debug\netcoreapp3.0\iDisposableTest.AssemblyInfoInputs.cache
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\obj\Debug\netcoreapp3.0\iDisposableTest.AssemblyInfo.cs
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\obj\Debug\netcoreapp3.0\iDisposableTest.dll
+C:\Users\Leonardo Silva Neves\Desktop\Console\iDisposableTest\iDisposableTest\obj\Debug\netcoreapp3.0\iDisposableTest.pdb
